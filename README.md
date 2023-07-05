@@ -1,6 +1,5 @@
 # Hi there, I'm Esona - Call me Esonadimples
 
-
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything
