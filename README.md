@@ -1,6 +1,6 @@
 # Hi there, I'm Esona - Call me Esonadimples
 
-## I'm a Developer!!
+## I'm a full stack Developer!!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
